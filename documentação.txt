@@ -1,0 +1,20 @@
+intalar visual studio code 
+instalar mysql 
+instalar nodejs
+
+pra verificar se o node foi instalado vai no cmd e digite: node -v e npm -v
+instalar yarn: npm install --global yarn 
+yarn --version
+
+dependências 
+yarn add formik yup axios (clients)
+
+yarn add mysql express nodemon cors bcrypt body-parser (server)
+
+
+instalar mysql workbench
+criar database banco 
+criar table usuarios 
+dentro da table usuarios adicionar o campo "idusuarios" "email" "password"
+idusuarios = pk nn ai
+
